@@ -33,9 +33,9 @@ export default function NaoEncontrada() {
                 </div>
 
                 <img
-                    className={styles.imagemCachorro}
+                    className={styles.imagemGato}
                     src={erro404}
-                    alt="Cachorro de óculos e vestido como humano"
+                    alt="Gato sorrindo"
                 />
             </div>
             <div className={styles.espacoEmBranco}></div>
